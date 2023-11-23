@@ -1,0 +1,13 @@
+wheel
+pyswarms
+pandas
+numpy
+seaborn
+scipy
+matplotlib
+tensorflow
+keras
+scikit-learn
+qiskit
+pylatexenc
+qiskit_machine_learning
