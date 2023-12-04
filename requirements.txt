@@ -11,3 +11,4 @@ scikit-learn
 qiskit
 pylatexenc
 qiskit_machine_learning
+imbalanced-learn
