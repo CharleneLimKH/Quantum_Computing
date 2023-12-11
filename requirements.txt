@@ -12,3 +12,8 @@ qiskit
 pylatexenc
 qiskit_machine_learning
 imbalanced-learn
+pennylane
+platformdirs
+dask
+torch
+pyquil
